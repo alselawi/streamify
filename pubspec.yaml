@@ -1,6 +1,6 @@
 name: streamify
-description: Sorted dictionary data structure for Dart.
-version: 0.1.0
+description: Simple state management for Flutter.
+version: 0.2.0
 repository: https://github.com/alselawi/streamify
 
 environment:
